@@ -157,3 +157,4 @@ Este projeto faz parte de um desafio prático da DIO, com foco na aplicação de
 ### Contatos:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Alvares26Sa@proton.me)  
+[![GitHub](https://img.shields.io/badge/GitHub-Vitória_Alvares-181717?style=for-the-badge&logo=github)](https://github.com/alv-vitoria)
