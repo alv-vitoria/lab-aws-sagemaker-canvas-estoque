@@ -1,4 +1,4 @@
-# 📊 Previsão de Estoque Inteligente com Amazon SageMaker Canvas
+# 📊 Previsão de Estoque Inteligente com Amazon SageMaker Canvas  
 
 ## Contexto do Projeto
 
